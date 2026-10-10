@@ -1,5 +1,5 @@
 # Chapter 7: CPU Scheduling
-
+두안주오팅  24215739
 ## Overview
 
 This project explores three CPU scheduling algorithms:
